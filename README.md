@@ -10,9 +10,6 @@ To apply various time series models, including ARIMA, SARIMA, ARCH, and GARCH to
 - Volatility analysis: Using GARCH to interpret and quantify fluctuations in sales data.
 # Key Findings
 - ARIMA(3,0,2) achieved the highest forecast accuracy with the lowest MAPE, closely matching the actual sales trend.
-**## Visualization Example
-![Sales Forecast](images/sales_forecast_plot.png)
-**
 - GARCH(1,1) effectively captured risk and volatility patterns, identifying periods of potential instability.
 - Classical autoregressive models performed best for trend-dominated, non-seasonal datasets.
 # Outcome
